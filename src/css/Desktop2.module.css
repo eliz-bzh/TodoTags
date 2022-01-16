@@ -1,0 +1,168 @@
+.ellipseimg {
+  position: absolute;
+  top: 406px;
+  left: 0px;
+  width: 1000px;
+  height: 1000px;
+}
+.ellipse2img {
+  position: absolute;
+  top: 0px;
+  left: 1056px;
+  width: 1100px;
+  height: 1100px;
+}
+.vector3img {
+  position: absolute;
+  top: 4.63%;
+  right: 18.75%;
+  bottom: 4.63%;
+  left: 18.75%;
+  max-width: 62.5%;
+  max-height: 90.74%;
+}
+.frame {
+  position: absolute;
+  top: 0%;
+  right: 3.85%;
+  bottom: 5.25%;
+  left: 3.85%;
+  border-radius: 15px;
+  background-color: rgba(255, 255, 255, 0.72);
+  overflow: hidden;
+}
+.frame2 {
+  position: absolute;
+  top: 2.62%;
+  right: 2.12%;
+  bottom: 2.62%;
+  left: 1.73%;
+  border-radius: 15px;
+  background-color: rgba(255, 255, 255, 0.72);
+  overflow: hidden;
+}
+.button {
+  position: absolute;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  background-color: #fff;
+  border: 1px solid #ff8a00;
+  box-sizing: border-box;
+}
+.next {
+  position: absolute;
+  top: 26.98%;
+  right: 34%;
+  bottom: 26.98%;
+  left: 33.5%;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-family: Cabin;
+  color: #ff8a00;
+  text-align: left;
+  display: inline-block;
+}
+.buttonNextimg {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 414px;
+  left: 159px;
+  width: 200px;
+  height: 63px;
+}
+.passwordimg {
+  position: absolute;
+  top: 315px;
+  left: 47px;
+  width: 426px;
+  height: 1px;
+}
+.usernameimg {
+  position: absolute;
+  top: 217px;
+  left: 46px;
+  width: 426px;
+  height: 1px;
+}
+.login {
+  position: absolute;
+  top: 62px;
+  left: 46px;
+  font-size: 48px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-family: Cabin;
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+}
+.rectangleimg {
+  position: absolute;
+  top: 54px;
+  left: 0px;
+  width: 8px;
+  height: 68px;
+}
+.frameContainer {
+  position: absolute;
+  top: 5.25%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  border-radius: 15px;
+  background-color: #ff8a00;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.vector4img {
+  position: absolute;
+  top: 28.12%;
+  right: 128.12%;
+  bottom: 28.12%;
+  left: -71.88%;
+  max-width: 43.76%;
+  max-height: 43.76%;
+}
+.ximg {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: rgba(255, 255, 255, 0);
+  position: absolute;
+  top: 105px;
+  left: 473px;
+  width: 44px;
+  height: 44px;
+  overflow: hidden;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  animation: 1s ease 0s infinite normal none fade-in;
+}
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.registerFo {
+  position: absolute;
+  top: 197px;
+  left: 700px;
+  width: 520px;
+  height: 686px;
+}
+.desktop2Container {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+}

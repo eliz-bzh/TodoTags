@@ -1,0 +1,192 @@
+.ellipse3img {
+  position: absolute;
+  top: 406px;
+  left: 0px;
+  width: 1000px;
+  height: 1000px;
+}
+.ellipse4img {
+  position: absolute;
+  top: 0px;
+  left: 1056px;
+  width: 1100px;
+  height: 1100px;
+}
+.vector5img {
+  position: absolute;
+  top: 4.63%;
+  right: 18.75%;
+  bottom: 4.63%;
+  left: 18.75%;
+  max-width: 62.5%;
+  max-height: 90.74%;
+}
+.frame3 {
+  position: absolute;
+  top: -1.53%;
+  right: 1.92%;
+  bottom: 1.84%;
+  left: 1.92%;
+  border-radius: 15px;
+  background-color: rgba(255, 255, 255, 0.72);
+  overflow: hidden;
+}
+.button2 {
+  position: absolute;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  background-color: #fff;
+  border: 1px solid #b1b1b1;
+  box-sizing: border-box;
+}
+.go {
+  position: absolute;
+  top: 26.98%;
+  right: 41%;
+  bottom: 26.98%;
+  left: 40.5%;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-family: Cabin;
+  color: #b1b1b1;
+  text-align: left;
+  display: inline-block;
+}
+.buttonGoimg {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 414px;
+  left: 160px;
+  width: 200px;
+  height: 63px;
+}
+.password2img {
+  position: absolute;
+  top: 315px;
+  left: 47px;
+  width: 426px;
+  height: 1px;
+}
+.username2img {
+  position: absolute;
+  top: 217px;
+  left: 46px;
+  width: 426px;
+  height: 1px;
+}
+.loginText {
+  position: absolute;
+  top: 62px;
+  left: 46px;
+  font-size: 48px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-family: Cabin;
+  color: #ff8a00;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 178px;
+  height: 58px;
+}
+.rectangle2img {
+  position: absolute;
+  top: 54px;
+  left: 0px;
+  width: 8px;
+  height: 68px;
+}
+.frame2Container {
+  position: absolute;
+  top: 1.23%;
+  right: 0%;
+  bottom: -0.92%;
+  left: 0%;
+  border-radius: 15px;
+  background-color: #fff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.ellipse5img {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 90px;
+  height: 90px;
+}
+.plusimg {
+  position: absolute;
+  top: calc(50% - 24px - 0px);
+  left: calc(50% - 24px - 0px);
+  width: 48px;
+  height: 48px;
+  overflow: hidden;
+}
+.plus2img {
+  position: absolute;
+  top: 21px;
+  left: 21px;
+  width: 48px;
+  height: 48px;
+  display: none;
+}
+.button3 {
+  position: absolute;
+  background-color: #fff;
+  border: 1px solid #ff8a00;
+  box-sizing: border-box;
+  width: 200px;
+  height: 63px;
+}
+.goText {
+  position: absolute;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-family: Cabin;
+  color: #ff8a00;
+  text-align: left;
+  display: inline-block;
+}
+.buttonGo {
+  position: absolute;
+  top: calc(50% - 0px - 192px);
+  left: calc(50% - 0px - 192px);
+  width: 0px;
+  height: 0px;
+  display: none;
+}
+.changeButtimgContainer {
+  cursor: pointer;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 7.67%;
+  right: -8.46%;
+  bottom: 78.53%;
+  left: 91.15%;
+  overflow: hidden;
+  min-width: 17.31%;
+  min-height: 13.8%;
+}
+.loginForm {
+  position: absolute;
+  top: 214px;
+  left: 700px;
+  width: 520px;
+  height: 652px;
+}
+.desktop3Container {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+}
